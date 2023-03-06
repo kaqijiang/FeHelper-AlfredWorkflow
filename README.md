@@ -5,7 +5,7 @@ Web开发者助手 FeHelper是一个Chrome 插件，节省了我们很多开发�
 这个Alfred脚本可以方便快速的打开FeHelper工具，节省了打开Chrome找到对应工具并且粘贴的过程。使用非常方便。
 
 > 顺便推荐一下我写的其他AlfredWorkflow
-> https://github.com/kaqijiang/MyToolBox-AlfredWorkflow
+> https://github.com/kaqijiang/AJTools-AlfredWorkflow
 >
 > 目前包含了以下功能，并且在不断增加：时间戳转换、unicode转中文、随机密码、MD5、URL解析、copy SHH Key、Sublime3 打开.bash_profile、Sublime3 打开.zshrc、打开当前窗口在iTerm2中、打开当前iTerm2路径在Finder中、当前文件夹下快速新建文件、ChatGPT聊天、Jenkins启动停止重启 等等
 
